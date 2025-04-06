@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - [LinkedIn](https://www.linkedin.com/in/ajanthan-ramkumar-aa8a34193/)
 - [Portfolio](...)
-- [Email]: ajanthanasia@gmail.com
+- Email : ajanthanasia@gmail.com
 
 ---
 
